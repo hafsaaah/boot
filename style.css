@@ -2,8 +2,20 @@
 .ms-auto{
   margin-right: 250px;
 }
-.navbar-brand,.nav-item{
-  font-family: sans-serif;
+.nav-item{
+  font-family:'papyrus';
   
+}
+.navbar-brand{
+  font-family:'Lucida Calligraphy', 'cursive', sans-serif;
+  margin-bottom:0fr;
+}
+.ms-1{
+  margin-right:250 px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
